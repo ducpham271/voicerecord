@@ -1,5 +1,7 @@
 note.txt
-service_account.json
+*.json
+*.toml
 *.wav
+.streamlit/
 .venv/
 .devcontainer/
